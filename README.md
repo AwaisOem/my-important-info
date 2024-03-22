@@ -1,6 +1,6 @@
 # my-important-info
-In this repo i use to store my Important Information
-everything in this is/should encrypted with RSA having 4096 bit key
+In this repo i use to store my Important Information <br/>
+everything in this is/should encrypted with RSA having 4096 bit key <br/>
 
 **If you able to decrypt it, contact me first, i've something for you**
 
